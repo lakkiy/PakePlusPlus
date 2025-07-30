@@ -204,17 +204,17 @@ All work is conducted openly on GitHub. Whether you are a core team member or an
 
 ## Support
 
-1. wechat and group，my wechat is lanxingme，welcome to join the wechat group.
- <p align="center" style="display:flex; justify-content: flex-start;" >
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/mywx.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/wxcode.png" width=200/>
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/qqpp3.jpg" width=200/>
- </p>
+💖 If this modified version has been helpful to you, feel free to support development:
 
-2. 💖If PakePlus has brought joy to your life, feel free to support it.
- <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
- </p>
+**Cryptocurrency Wallets:**
+
+- **Solana**: `CaKaCCFcAAWwZT6gbXTShgiXsh4fcX5rsgLamS3R3Vw5`
+- **Ethereum**: `0x3b4892d6C896A7b2E3477928a8dCDB8fBa2365D0`
+- **Base**: `0x3b4892d6C896A7b2E3477928a8dCDB8fBa2365D0`
+- **Sui**: `0x6c1f5bc7e641d6c17c1ea3f1d36cbca5a345335a38d55c70009b6b2319354483`
+- **Polygon**: `0x3b4892d6C896A7b2E3477928a8dCDB8fBa2365D0`
+- **Bitcoin (Taproot)**: `bc1p4wnl26cm43g5tj923sl8rm83mnvu5t7zflr7dypwdjxxnkl038mqasuas7`
+- **Bitcoin**: `bc1p4wnl26cm43g5tj923sl8rm83mnvu5t7zflr7dypwdjxxnkl038mqasuas7`
 
 ## Star History
 
